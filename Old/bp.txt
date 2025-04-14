@@ -1,0 +1,6 @@
+# BREAKING_POINT;
+
+## Sector I - "Hell embeded in the Soul"
+	Partition I 	: School Day (General Movement Tutorial) | s1p1
+	Partition II 	: Firing Range (Aim Tests) 		 | s1p2
+

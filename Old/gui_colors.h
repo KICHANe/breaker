@@ -1,0 +1,9 @@
+#ifndef GUI_COLORS_H
+#define GUI_COLORS_H
+
+#define BASIC_FONT "Fira Code"
+#define FOREGROUND 255, 255, 255, 255
+#define FOREGROUND_ERROR 255, 64, 64, 255
+#define MENU_ITEM_TITLEBAR 85, 27, 161, 255
+
+#endif
