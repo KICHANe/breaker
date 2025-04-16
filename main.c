@@ -37,12 +37,14 @@ EngineInstance EngineInit() {
 }
 
 void CleanupRoutine(EngineInstance inst) {
-    SDL_GL_DeleteContext();
+    SDL_GL_DeleteContext(inst->);
+    SDL_DestroyWindow()
 }
 
 int main() {
     EngineInstance engine = EngineInit();
     GameInstance instance = InstanceInit();
+    
     
     
 }
